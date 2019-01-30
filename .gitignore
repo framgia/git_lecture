@@ -56,3 +56,6 @@ bower.json
 
 
 test1.txt
+
+# gitignore
+fileIntoGitignore.txt
