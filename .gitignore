@@ -60,4 +60,4 @@ test1.txt
 # gitignore
 fileIntoGitignore.txt
 
-demo01.txt
+/demo01.txt
