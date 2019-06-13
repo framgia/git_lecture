@@ -1,6 +1,6 @@
 *.rbc
 capybara-*.html
-.rspec
+.rspec/log
 /log
 /tmp
 /db/*.sqlite3
@@ -62,3 +62,4 @@ fileIntoGitignore.txt
 
 /demo01.txt
 demo01.doc
+#develop note 1.
