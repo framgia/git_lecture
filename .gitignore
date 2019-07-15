@@ -42,6 +42,8 @@ bower.json
 
 # Ignore Byebug command history file.
 .byebug_history
+
+
 heloo
 # if using bower-rails ignore default bower_components path bower.json files
 /vendor/assets/bower_components
@@ -62,3 +64,5 @@ fileIntoGitignore.txt
 
 /demo01.txt
 demo01.doc
+
+not-push-git.txt
